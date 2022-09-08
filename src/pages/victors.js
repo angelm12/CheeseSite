@@ -1,5 +1,5 @@
-import { Box, Image, Button, Collapse, Heading, Text, HStack, Spacer, Stack, VStack } from "@chakra-ui/react";
-import { useState } from "react";
+import { Box, Heading, Text,} from "@chakra-ui/react";
+
 import {
     Accordion,
     AccordionItem,
